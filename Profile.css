@@ -1,0 +1,50 @@
+h3 {
+    color: black;
+    font-size: 1.2em;
+}
+
+::-webkit-scrollbar{
+    width: 0px;
+    background: transparent;
+}
+
+.ButtonContainer {
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+
+#Save {
+    text-align: center;
+    width: 100%;
+}
+
+.Container {
+    width: 95%;
+    margin: 3% auto;
+    overflow: scroll;
+}
+
+.ComponentContainer {
+    width: 100%;
+    margin: 0 auto;
+    background-color: #808080;
+    border-radius: 5px;
+    margin-top: 3%;
+}
+
+.ContentContainer {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.gridContainer {
+    display: table-row;
+}
+
+.gridItem {
+    display: table-cell;
+    margin: 0 auto;
+    text-align: center;
+    width: 50%;
+}
