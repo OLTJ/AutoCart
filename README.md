@@ -9,3 +9,5 @@ What I've learned:
 - How to merge different programming languages / technologies (Typescript frontend with Python backend)
 - CSS styling & Bootstrap libraries
 - A more comprehensive understanding of APIs
+- How to create a chrome web browser extension
+- How to implement a content script
